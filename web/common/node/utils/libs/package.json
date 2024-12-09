@@ -15,7 +15,7 @@
     "json2xls": "0.1.2",
     "json2xls-xml": "0.0.14",
     "underscore": "1.13.2",
-    "xls-to-json": "2.1.0",
+    "xls-to-json": "2.1.1",
     "yamljs": "0.2.10"
   },
   "devDependencies": {
